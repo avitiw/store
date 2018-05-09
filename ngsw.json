@@ -1,0 +1,71 @@
+{
+  "configVersion": 1,
+  "index": "https://avitiw.github.io/store/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://avitiw.github.io/store/favicon.ico",
+        "https://avitiw.github.io/store/index.html",
+        "https://avitiw.github.io/store/main.bd912716e1b6c4cfee5e.js",
+        "https://avitiw.github.io/store/polyfills.2903ad11212d7d797800.js",
+        "https://avitiw.github.io/store/runtime.6afe30102d8fe7337431.js",
+        "https://avitiw.github.io/store/styles.7f2cef46d3dd54591a8d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://avitiw.github.io/store/assets/icons/icon-128x128.png",
+        "https://avitiw.github.io/store/assets/icons/icon-144x144.png",
+        "https://avitiw.github.io/store/assets/icons/icon-152x152.png",
+        "https://avitiw.github.io/store/assets/icons/icon-192x192.png",
+        "https://avitiw.github.io/store/assets/icons/icon-384x384.png",
+        "https://avitiw.github.io/store/assets/icons/icon-512x512.png",
+        "https://avitiw.github.io/store/assets/icons/icon-72x72.png",
+        "https://avitiw.github.io/store/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://avitiw.github.io/store/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://avitiw.github.io/store/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://avitiw.github.io/store/index.html": "d38aed393bb8fbb8beb33f90ff0a3281a8b1a3b6",
+    "https://avitiw.github.io/store/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://avitiw.github.io/store/main.bd912716e1b6c4cfee5e.js": "7cda63869246ee0621eed291ed2a69fef94ffa72",
+    "https://avitiw.github.io/store/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://avitiw.github.io/store/polyfills.2903ad11212d7d797800.js": "193f6d7b77c2bce633da2f543082303b4f32d7ed",
+    "https://avitiw.github.io/store/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://avitiw.github.io/store/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "https://avitiw.github.io/store/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://avitiw.github.io/store/styles.7f2cef46d3dd54591a8d.css": "21d0f12e40d50f77c2daa45e25db3ac46a91d6af",
+    "https://avitiw.github.io/store/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://avitiw.github.io/store/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://avitiw.github.io/store/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+    }
+  ]
+}
