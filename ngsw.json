@@ -9,7 +9,7 @@
       "urls": [
         "/store/favicon.ico",
         "/store/index.html",
-        "/store/main.58f91840a989357a6545.js",
+        "/store/main.9b83d8f8955ac43b2a6e.js",
         "/store/polyfills.2903ad11212d7d797800.js",
         "/store/runtime.6afe30102d8fe7337431.js",
         "/store/styles.7f2cef46d3dd54591a8d.css"
@@ -37,9 +37,9 @@
   "hashTable": {
     "/store/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/store/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/store/index.html": "f36fcc471a5350a00c56905fdeab847e5ce85382",
+    "/store/index.html": "6aff85fb12f414b2fa3697e7ae48727a8d831bca",
     "/store/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/store/main.58f91840a989357a6545.js": "dc1e875141df26fb2071b5b522afc5f7f7881e02",
+    "/store/main.9b83d8f8955ac43b2a6e.js": "55d08417a71c60b5d949b24319c09e9523017ecf",
     "/store/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
     "/store/polyfills.2903ad11212d7d797800.js": "193f6d7b77c2bce633da2f543082303b4f32d7ed",
     "/store/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
